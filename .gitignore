@@ -10,3 +10,5 @@
 .local/
 .npm/
 conda/
+lost+found/
+.viminfo
