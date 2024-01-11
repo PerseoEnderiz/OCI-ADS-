@@ -1,0 +1,12 @@
+.__nb_swap__
+.cache/
+.conda/
+.gitconfig
+.gitconfig.swo
+.gitconfig.swp
+.gitignore.swp
+.ipynb_checkpoints/
+.ipython/
+.local/
+.npm/
+conda/
